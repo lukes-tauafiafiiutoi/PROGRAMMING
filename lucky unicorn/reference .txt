@@ -1,0 +1,81 @@
+var answer = prompt('what is paper made out of? \n a trees \n b the sun \n c grass \n d dragons' );
+
+if (answer.toLowerCase() == 'a'){
+
+alert('correct') ;
+
+points += 1
+
+}
+
+else {
+
+alert('you got the answer incorrect, the answer was a trees') ;
+
+}
+
+var question = prompt('what is the shape of an ball? \n a oval \n b circle \n c areoplane \n d mug');
+
+if (question.toLowerCase() == 'b'){
+
+alert('correct') ;
+
+points += 1
+
+}
+
+else {
+
+alert('you got the answer incorrect, the answer was b circle') ;
+
+}
+
+var questo = prompt('what is ten times ten? \n a 10 \n b 20 \n c 100 \n d 1000') ;
+
+if (questo.toLowerCase() == 'c'){
+
+alert('correct') ;
+
+points += 1
+
+}
+
+else {
+
+alert('you got the answer incorrect, the answer was c 100') ;
+
+}
+
+var quest = prompt('what is 12 x 12? \n a 12 \n b 24 \n c 112 \n d 144' ) ;
+
+if (quest.toLowerCase() == 'd') {
+
+alert('correct') ;
+
+points += 1
+
+}
+
+else {
+
+alert('you got the answer incorrect, the answer was d 144') ;
+
+}
+
+var que = prompt('what is 12 x 13? \n a 156 \n b 24 \n c 112 \n d 144') ;
+
+if (que.toLowerCase() == 'a') {
+
+alert('correct') ;
+
+points += 1
+
+}
+
+else {
+
+alert('you got the answer incorrect, the answer was d 156') ;
+
+}
+
+alert('you got'+ points + '/5')

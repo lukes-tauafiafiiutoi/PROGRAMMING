@@ -1,0 +1,39 @@
+
+
+
+def yes_no(question):
+    valid = False
+    while not valid:
+    response = input("Have you played this game before? ").lower()
+
+elif response == "yes" or response == "y":
+    response = "yes"
+return response
+
+elif response == "no" or response == "n":
+response = "no"
+return response
+
+else: 
+    print("Please answer yes / no")
+
+
+show_instructions =""
+
+show_instructions = input("Have you played this game before? ").lower()
+
+if show_instcutions == "yes" or show_instructions == "y":
+    show_instructions = "yes"
+print("program continues") 
+
+if show_instrctions == "y":
+print("program continues") 
+
+if show_instcutions == "no" or show_instructions = "n":
+print("display instructions") 
+
+if show_instrctions == "n":
+print("display instructions") 
+
+if show_instructions == "n"
+print("program continues")

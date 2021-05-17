@@ -1,0 +1,9 @@
+Implications for digi for programming 
+
+functionality - expected boundary and unexpected cases
+
+usabilty - how easily the end user can accomplish tasks. it deals with issues like making instructions and error messages clear and easy for users to understand 
+
+Aesthetics - Aesthetics involves an outcomes overall apprearance. A program whicfh has well spaced instructions and decoration. an example of this is 
+
+Social implication - 
