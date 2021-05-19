@@ -22,6 +22,6 @@ def num_check(question, low, high):
 # Main routine 
 
 how_much = num_check("How much would you"
-                     "like to play with?",0, 10
+                     "like to play with?", 0, 10
 
 print("You will be spending ${}".format(How much))
